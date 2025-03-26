@@ -6,3 +6,4 @@ dist/
 *.aab
 .env
 *.log
+.DS_Store
